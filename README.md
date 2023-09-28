@@ -34,3 +34,7 @@ This program is crafted to analyze and extract insights from CSV files. It segre
 ## Compilation
 ```sh
 gcc -o csv_analyzer main.c
+```
+```sh
+./csv_analyzer file.csv
+```
